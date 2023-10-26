@@ -1,0 +1,11 @@
+/* Write your CSS code here */
+.blog-ul-items {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  list-style: none;
+  width: 90%;
+  padding: 20px;
+  margin-top: 0px;
+}
